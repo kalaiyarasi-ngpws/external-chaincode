@@ -1,0 +1,5 @@
+{
+    "address": "10.132.15.228:7053", 
+    "dial_timeout": "10s",
+    "tls_required": false
+}

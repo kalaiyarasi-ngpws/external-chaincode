@@ -1,0 +1,6 @@
+*.rst
+*.json
+*.tar.gz
+*.tgz
+chaincode.env
+Dockerfile
